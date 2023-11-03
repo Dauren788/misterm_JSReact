@@ -8,7 +8,7 @@ function messagesReducer(state = initialState, action) {
         .find((message) => message.fromto === action.payload.fromto)
         .messages.push({
           message: action.payload.message,
-          from: "mucahitsahin6",
+          from: "dauren",
         });
       return {
         ...state,

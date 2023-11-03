@@ -32,7 +32,7 @@ function Notifications() {
         <div className="notificationsHeader">
           <div className="notificationsTitle">
             <div onClick={() => setIsDrawerBar(true)}>
-              <Avatar src="https://avatars.githubusercontent.com/u/38807255?s=460&u=deb087d587be7f6a4000e4e710ec4d1daa6fde84&v=4" />
+              <Avatar src="https://i.ytimg.com/vi/eV4fMfIjTZ0/maxresdefault.jpg" />
             </div>
             <span>Notifications</span>
             <SettingsIcon />
@@ -60,7 +60,7 @@ function Notifications() {
                   followingUser={{
                     userImage:
                       "https://pbs.twimg.com/profile_images/1348390204810407937/BmUVaYGD_400x400.jpg",
-                    displayName: "Cihat Necati",
+                    displayName: "Naruto Uzumaki",
                   }}
                 />
                 <LikedYou
@@ -68,39 +68,39 @@ function Notifications() {
                     id: 1,
                     likeUser: [
                       {
-                        displayName: "C Necati",
+                        displayName: "N Uzumaki",
                         userImage:
                           "https://pbs.twimg.com/profile_images/1348390204810407937/BmUVaYGD_400x400.jpg",
                       },
                       {
-                        displayName: "Mehmet",
+                        displayName: "John",
                         userImage:
-                          "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+                          "https://i.ytimg.com/vi/eV4fMfIjTZ0/maxresdefault.jpg",
                       },
                       {
                         displayName: "Code",
                         userImage:
-                          "https://pbs.twimg.com/profile_images/1278357302601347072/BGZIBPH9_200x200.jpg",
+                          "https://i.ytimg.com/vi/eV4fMfIjTZ0/maxresdefault.jpg",
                       },
                     ],
-                    post: "Bu tweeti beğenin.",
+                    post: "ifrst tweet.",
                   }}
                 />
                 <Post
-                  username="cnecati"
+                  username="naruto"
                   userimage="https://pbs.twimg.com/profile_images/1348390204810407937/BmUVaYGD_400x400.jpg"
-                  displayName="Cihat Necati"
-                  text="@mucahitsahin Projelerine github.com/mucahit-sahin adresinden ulaşabilirsiniz"
+                  displayName="Naruto Namikaze"
+                  text="good luck for midterm"
                   date="1614077764184"
                 />
               </>
             ) : (
               <>
                 <Post
-                  username="cnecati"
+                  username="dauren"
                   userimage="https://pbs.twimg.com/profile_images/1348390204810407937/BmUVaYGD_400x400.jpg"
-                  displayName="Cihat Necati"
-                  text="@mucahitsahin Projelerine github.com/mucahit-sahin adresinden ulaşabilirsiniz"
+                  displayName="Dauren Dauren"
+                  text="tweet app"
                   date="1614077764184"
                 />
               </>

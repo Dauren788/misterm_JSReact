@@ -1,51 +1,51 @@
 const messages = [
   {
-    fromto: "mucahitsahin6-cnecati",
+    fromto: "Naruto Uzumaki",
     messages: [
       {
-        message: "merhaba",
-        from: "mucahitsahin6",
+        message: "dattebayo",
+        from: "Dauren",
       },
       {
-        message: "merhaba",
-        from: "cnecati",
+        message: "hokage",
+        from: "Naruto",
       },
       {
-        message: "merhaba",
-        from: "cnecati",
+        message: "hi",
+        from: "Naruto",
       },
       {
-        message: "merhaba",
-        from: "mucahitsahin6",
+        message: "hello",
+        from: "Dauren",
       },
     ],
   },
   {
-    fromto: "mucahitsahin6-yasin",
+    fromto: "Kasym-Zhomart_Tokayev",
     messages: [
       {
-        message: "merhaba",
-        from: "mucahitsahin6",
+        message: "Salam",
+        from: "Kasym-Zhomart",
       },
       {
-        message: "merhaba",
-        from: "yasin",
+        message: "hello",
+        from: "Dauren",
       },
       {
-        message: "merhaba",
-        from: "yasin",
+        message: "hi",
+        from: "Dauren",
       },
       {
-        message: "merhaba",
-        from: "mucahitsahin6",
+        message: "salam",
+        from: "Kasym-Zhomart",
       },
       {
-        message: "merhaba",
-        from: "mucahitsahin6",
+        message: "hi",
+        from: "Kasym-Zhomart",
       },
       {
-        message: "merhaba",
-        from: "mucahitsahin6",
+        message: "hi",
+        from: "Kasym-Zhomart",
       },
     ],
   },

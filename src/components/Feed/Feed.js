@@ -24,7 +24,7 @@ function Feed() {
       <DrawerBar active={isDrawerBar} />
       <div className="feed-header">
         <div onClick={() => setIsDrawerBar(true)}>
-          <Avatar src="https://avatars.githubusercontent.com/u/38807255?s=460&u=deb087d587be7f6a4000e4e710ec4d1daa6fde84&v=4" />
+          <Avatar src="https://i.ytimg.com/vi/eV4fMfIjTZ0/maxresdefault.jpg" />
         </div>
         <div className="feed-headerText">
           <span>Home</span>

@@ -40,7 +40,7 @@ const Profile = () => {
           <div className="backgroundImage"></div>
           <div className="profileTitle">
             <div className="profileImage">
-              <Avatar src="https://avatars2.githubusercontent.com/u/38807255?s=460&u=deb087d587be7f6a4000e4e710ec4d1daa6fde84&v=4" />
+              <Avatar src="https://i.ytimg.com/vi/eV4fMfIjTZ0/maxresdefault.jpg" />
             </div>
             <div className="editProfile">
               <span>Edit Profile</span>
